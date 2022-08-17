@@ -1,1 +1,1 @@
-A repo for my personal academic page. Is is a fork of [this repository](https://github.com/academicpages/academicpages.github.io). Feel free to contact me via my email, which could be found on [my page](https://vladislavtodorow.github.io/).
+A repo for my personal academic page. Is is a fork of [this repository](https://github.com/academicpages/academicpages.github.io). Feel free to contact me via my email, which could be found on [my page](https://krasimirmitev.github.io/).
