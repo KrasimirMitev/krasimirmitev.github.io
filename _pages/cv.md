@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Download a pdf [here](../files/CV_KrasimirMitev_2022_en.pdf){:target="\_blank"}.
+Download a pdf [here](../files/CV_KrasimirMitev_2022_En.pdf){:target="\_blank"}.
 
 
 Education
