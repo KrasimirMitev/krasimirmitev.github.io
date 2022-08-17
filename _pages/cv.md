@@ -10,8 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-<!-- <iframe src="../files/CV_KrasimirMitev_2022_en.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
-
 Download a pdf [here](../files/CV_KrasimirMitev_2022_en.pdf){:target="\_blank"}.
 
 
