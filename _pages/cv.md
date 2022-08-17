@@ -52,11 +52,11 @@ Awards and grants
 
 Lectures in foreign research institutions
 ===
-* __K. Mitev__, Lecture in Korea Atomic Energy Research Institute (KAERI), “Recent works on radon detection and measurement by scintillation
-counting”, 19.09.2019, Daejeon, Korea
-* __K. Mitev__, Lecture in Istituto nazionale di fisica nucleare (INFN), Laboratori Nazionali di Legnaro (LNL): “Recent works on Monte Carlomodeling of radiation detectors at the Lab. of Dosimetry and Radiation Protection, Sofia University “St. Kliment Ohridski”, 21.11.2012
-* __K. Mitev__, Lecture in Istituto nazionale di fisica nucleare (INFN), Laboratori Nazionali di Legnaro (LNL): “Monte Carlo simulations of large area beta sources”, February, 2008
-* __K. Mitev__, Lecture in Istituto nazionale di fisica nucleare (INFN), Laboratori Nazionali di Legnaro (LNL): “Numerical modeling of the processes in proportional counters used for absolute measurement of activity concentration of Krypton-85”, February, 2007
+* __K. Mitev__, Lecture in Korea Atomic Energy Research Institute (KAERI), _“Recent works on radon detection and measurement by scintillation
+counting”_, 19.09.2019, Daejeon, Korea
+* __K. Mitev__, Lecture in Istituto nazionale di fisica nucleare (INFN), Laboratori Nazionali di Legnaro (LNL): _“Recent works on Monte Carlo modeling of radiation detectors at the Lab. of Dosimetry and Radiation Protection, Sofia University “St. Kliment Ohridski”_, 21.11.2012
+* __K. Mitev__, Lecture in Istituto nazionale di fisica nucleare (INFN), Laboratori Nazionali di Legnaro (LNL): _“Monte Carlo simulations of large area beta sources”_, February, 2008
+* __K. Mitev__, Lecture in Istituto nazionale di fisica nucleare (INFN), Laboratori Nazionali di Legnaro (LNL): _“Numerical modeling of the processes in proportional counters used for absolute measurement of activity concentration of Krypton-85”_, February, 2007
 
 
 International scientific research projects
