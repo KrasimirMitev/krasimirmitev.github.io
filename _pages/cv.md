@@ -10,30 +10,30 @@ redirect_from:
 {% include base_path %}
 
 
-<!-- <iframe src="../files/CV_Vladislav_Todorov.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
+<!-- <iframe src="../files/CV_Krasimir_Mitev_2022_en.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe> -->
 
-Download a pdf [here](../files/CV_Vladislav_Todorov.pdf){:target="\_blank"}
+Download a pdf [here](../files/CV_Vladislav_Todorov.pdf){:target="\_blank"}.
 
 
 Education
 ======
-* Graduated from [SU Nikolai Katranov](http://katranov.com/), 2017
-* BS in Medical Physics from [Sofia University “St. Kliment Ohridski”](https://www.uni-sofia.bg/index.php/eng), 2021 with excellent mark
-* MS in Medical Physics from [Sofia University "St. Kliment Ohridski"](https://www.uni-sofia.bg/index.php/eng) 2023, (expected)
+* Sofia University "St. Kliment Ohridski", Faculty of Physics, MSc in Nuclear and Particle Physics, 2000
+
+Scientific degrees Honours/Titles/Qualifications
+======
+* Universite "Paul Sabatier", Toulouse, France, PhD in Physics, 2005
+* Sofia University "St. Kliment Ohridski", Associate professor at Faculty of Phsyics, January 2013
 
 Work experience
 ======
-* July 2020 - present: Part time physicist
-  * Sofia University „St. Kliment Ohridski“, Department of Atomic Physics
-  * Work at the Metrology of Ionizing Radiation Laboratory
-  * Duties: metrological measurements and studies, detector design and development, data analysis
+* Sofia University "St. Kliment Ohridski", Faculty of Physics, Physicist, 2001-2004
+* Sofia University "St. Kliment Ohridski", Faculty of Physics, Assistant Professor, 2004- 2013
+* Sofia University "St. Kliment Ohridski", Faculty of Physics, Associate Professor, 2013- present
 
-Skills
+Major fields of scientific research
 ======
-* Programming languages:
-  * Python 
-* Linux 
-  * basic knolwedge of the Linux OS
+Metrology of ionizing radiation, Radiation and Activity Measurements, Radioactive noble gas detection and measurement, Monte Carlo simulations of radiation transport, Numerical modeling, Dosimetry
+
 
 Publications
 ======
