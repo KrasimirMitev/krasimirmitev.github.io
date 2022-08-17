@@ -12,6 +12,12 @@ redirect_from:
 
 Download a pdf [here](../files/CV_KrasimirMitev_2022_En.pdf){:target="\_blank"}.
 
+Current professional status
+======
+* Associate professor at the Faculty of Physics
+* Head of Department of Atomic Physics (since 2019).
+* Founder and head of the Lab. “Metrology of ionizing radiation” at the Department of Atomic Physics, Faculty of Physics, Sofia University
+
 
 Education
 ======
@@ -75,6 +81,13 @@ National scientific research projects
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 3 chapters in monographies
+* 55 articles in international peer-reviewed journals
+* 31 full text papers published in proceedings of international conferences
+* 24 full text papers published in proceedings of national conferences
+* 9 abstracts and publications in other journals
+* one patent application, submitted to the Institut National de la Propriete Idnustrielle, France
+
+#  <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
