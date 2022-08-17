@@ -88,6 +88,6 @@ Publications
 * 9 abstracts and publications in other journals
 * one patent application, submitted to the Institut National de la Propriete Idnustrielle, France
 
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
+<!--  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
