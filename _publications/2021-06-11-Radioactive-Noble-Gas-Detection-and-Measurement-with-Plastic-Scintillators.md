@@ -1,5 +1,5 @@
 ---
-title: "Radioactive Noble Gas Detection and Measurement with Plastic Scintillators"
+title: "Radioactive Noble Gas Detection and Measurement with Plastic Scintillators In: Hamel M. (eds) <i>Plastic Scintillators. Topics in Applied Physics</i>"
 collection: publications
 section: ch-mono
 date: 2021-06-11
