@@ -14,7 +14,7 @@ author_profile: true
 A full list of my publications in pdf format can be downloaded from [here](../files/ListOfPublications_KM.pdf){:target="\_blank"}.
 
 
-## Chapters in monographies
+## Selected chapters in monographies
 
 {% for post in site.publications reversed %}
 {% if post.section == 'ch_mono' %}
