@@ -1,7 +1,7 @@
 ---
 title: "Development of a portable scintillation spectrometer with alpha-/beta-and neutron-/gamma-pulse-shape discrimination capabilities"
 collection: publications
-section: conf_preceed
+section: conf_proceed
 date: 2018-01-01
 venue: '2018 IEEE Nuclear Science Symposium and Medical Imaging Conference Proceedings (NSS/MIC)'
 authors: <b>K Mitev</b>, V. Jordanov, M. Hamel, Ch. Dutsov, S. Georgiev, P. Cassette
