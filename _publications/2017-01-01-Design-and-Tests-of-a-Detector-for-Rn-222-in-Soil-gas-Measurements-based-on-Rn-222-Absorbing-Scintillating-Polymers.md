@@ -5,5 +5,5 @@ section: conf_proceed
 date: 2017-01-01
 venue: "2017 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)"
 authors: <b>K. Mitev</b>, L. Tsankov, M. Mitev, Ch. Dutsov, S. Georgiev, S. Kolev, N. Markov, T. Todorov
-link: link: https://doi.org/10.1109/NSSMIC.2017.8532818
+link: https://doi.org/10.1109/NSSMIC.2017.8532818
 ---
